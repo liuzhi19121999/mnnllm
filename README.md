@@ -1,5 +1,7 @@
 # mnnllm (MNN-LLM Flutter Plugin)
 
+[![pub package](https://img.shields.io/pub/v/mnnllm.svg)](https://pub.dartlang.org/packages/mnnllm)
+
 A Flutter Plugin for Android and IOS based on MNN-LLM.
 
 |             | Android |    iOS   |
